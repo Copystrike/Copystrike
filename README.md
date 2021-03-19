@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Nick and I love programming a lot.
+My name is Nick and I love programming a lot.<br/>
 If you see days where I didnt commit anything I was probably facing in a depression because of some stupid error or I was just out drinking with friends.
 
 ---
