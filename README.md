@@ -1,7 +1,7 @@
 # Hello there 👋
 
 My name is Nick and I love programming a lot.
-Currenly teaching myself about the Blockchain and Algebra.
+If you see days where I didnt commit anything I was probably facing in a depression because of some stupid error or I was just out drinking with friends.
 
 ---
 
